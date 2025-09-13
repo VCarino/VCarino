@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello, I'm VCarino!
 
-<!--
-**VCarino/VCarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub space! 🌱
 
-Here are some ideas to get you started:
+I'm a beginner developer with a passion for crafting beautiful and functional websites.  
+Currently, I know **HTML**, **CSS**, and **JavaScript**—the building blocks of the web.  
+I am now learning **PHP** and **Laravel** to expand my horizons into backend development and modern frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As I grow, I hope to share my journey, projects, and progress here.  
+If you have tips, advice, or just want to connect, feel free to reach out!
+
+---
+
+✨ **Skills:**  
+- HTML & CSS (Styling and structure)
+- JavaScript (Interactivity and logic)
+- Learning: PHP & Laravel
+
+---
+
+Thank you for stopping by! 🚀
