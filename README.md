@@ -1,4 +1,4 @@
-# 👋 Hello, I'm VCarino!
+# 👋 Hello, I'm Voughn Carino!
 
 Welcome to my GitHub space! 🌱
 
