@@ -14,7 +14,7 @@ If you have tips, advice, or just want to connect, feel free to reach out!
 ✨ **Skills:**  
 - HTML & CSS (Styling and structure)
 - JavaScript (Interactivity and logic)
-- Learning: PHP & Laravel
+- Learning: PHP, REACT & Laravel
 
 ---
 
